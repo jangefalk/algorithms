@@ -1,5 +1,7 @@
 # Bubble Sort Challenges
 
+![alt text](bubble-sort.png "Bubble Sort")
+
 ## Table of Contents
 
 1. [Beginner: Implement Basic Bubble Sort](#1-beginner-implement-basic-bubble-sort)

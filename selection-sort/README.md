@@ -1,5 +1,7 @@
 # Selection Sort Challenges
 
+![alt text](selection-sort.png "Selection Sort")
+
 ## Table of Contents
 
 1. [Beginner: Implement Basic Selection Sort](#1-beginner-implement-basic-selection-sort)
